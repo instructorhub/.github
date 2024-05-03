@@ -1,1 +1,1 @@
-![Instructor's Lounge](./assets/vintage.jpg)
+![Instructor Hub](./assets/vintage.jpg)
